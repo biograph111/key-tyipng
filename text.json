@@ -1,0 +1,18 @@
+{
+    "text_list": [
+        "globalThis",
+        "Infinity",
+        "NaN",
+        "undefined",
+        "eval()",
+        "isFinite()",
+        "isNaN()",
+        "parseFloat()",
+        "parseInt()",
+        "decodeURI()",
+        "decodeURIComponent()",
+        "encodeURI()",
+        "encodeURIComponent()",
+        "unescape()"
+    ]
+}
